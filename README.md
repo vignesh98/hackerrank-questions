@@ -1,2 +1,2 @@
-# hackerrank-questions
+# hackerrank-solutions
  Solutions for hackerrank questions
